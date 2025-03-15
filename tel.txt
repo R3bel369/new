@@ -1,3 +1,7 @@
 .raju
 .rani
+<<<<<<< HEAD
 .sipa
+=======
+.warrior
+>>>>>>> 846ad820cde9e3f4f3e1a98a40c8813c2f09a17a
