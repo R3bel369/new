@@ -1,3 +1,3 @@
 .king
 .queen
-.warrior
+.fourt
